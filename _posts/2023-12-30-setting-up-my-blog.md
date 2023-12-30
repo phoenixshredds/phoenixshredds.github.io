@@ -10,4 +10,4 @@ Some nebulous amount of weeks ago I had the idea to create this blog, but since 
 
 I'll share more soon, but as of now I am working on the JS course at FCC, as well as a couple personal websites (one a portfolio site, and the other a Tecmo Superbowl records site). I also have come up with an idea for a browser RPG (which may or may not include fighting zombies). More soon! Over and out, Jeff.
 
-P.S. I had a whole kerfuffle getting github pages to work with this site for some reason. It worked beautifully locally. Anyway, problem solved. I think I messed with a directory and everything went out of wack.
+P.S. I had a whole kerfuffle getting github pages to work with this site for some reason. It worked beautifully locally. Anyway, problem solved. I think I messed with a directory and everything went out of wack. Having issues pushing these changes to the site, though.
